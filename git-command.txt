@@ -1,0 +1,9 @@
+   git init
+   git status
+   git add file_name
+   git status
+   git commit -m "Added testing file"
+   rm file_name
+   ls
+   git status
+   git restore file_name
