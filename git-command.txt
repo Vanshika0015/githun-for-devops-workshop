@@ -1,5 +1,5 @@
    git init
-   git status
+  git status
    git add file_name
    git status
    git commit -m "Added testing file"
@@ -7,3 +7,5 @@
    ls
    git status
    git restore file_name
+   git clone url_of_repo
+   git push origin master
